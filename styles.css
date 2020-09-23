@@ -1,0 +1,37 @@
+.bg-image {
+  text-align: center;
+  margin: auto;
+  float: left;
+}
+.header{
+  width: 80%;
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
+.klick:last-child {
+  padding-right: 0;
+}
+.klick {
+  padding: 20px 15px;
+  color: #FFFFFF;
+  background-color: #000080;
+}
+.titel {
+  color: #000080;
+}
+.new {
+  border-style: dotted;
+  border-color: #000080;
+}
+.p {
+  color: #FFFFFF;
+  background-color: #000080;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 10px 5px;
+}
+.a {
+  color: #000080;
+}
