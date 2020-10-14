@@ -58,6 +58,10 @@ body {
   justify-content: center;
 }
 
+.main__title {
+  font-family: 'Piazzolla', serif;
+}
+
 .main__subtitle {
   color: #006400
 }
